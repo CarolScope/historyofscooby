@@ -13,3 +13,8 @@ Then run
 ```
 npm install
 ```
+
+And then
+```
+npm run serve
+```
