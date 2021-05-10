@@ -5,8 +5,8 @@
           <p class="font-semibold text-6xl tracking-tight ml-24 pt-24 mr-20 text-white">The History of Scooby Doo</p>
           <p class="text-2xl tracking-tight ml-24 mr-20 text-white">This is a space to learn all you always wished to know about the history of Scooby Doo</p>
           <p class="mt-6">
-            <a href="#" class="text-sm px-4 ml-24 py-3 leading-none border rounded text-white border-white hover:border-transparent hover:text-purple-500 hover:bg-white">Download</a>
-            <a href="#" class="text-sm px-4 ml-5 py-3 leading-none border rounded text-white border-white hover:border-transparent hover:text-purple-500 hover:bg-white">Download</a>
+            <a href="#" class="text-sm px-4 ml-24 py-3 leading-none border rounded text-white border-white hover:border-transparent hover:text-purple-500 hover:bg-white font-black">DO</a>
+            <a href="#" class="text-sm px-4 ml-5 py-3 leading-none border rounded text-white border-white hover:border-transparent hover:text-purple-500 hover:bg-white font-black">NOTHING</a>
           </p>
         </div>
         <div class="">

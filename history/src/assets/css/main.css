@@ -1,0 +1,19 @@
+.bg-sd-green {
+    background-color: #C5D831;
+}
+
+.h-550 {
+    height: 550px;
+}
+
+.w-inherit {
+    width: inherit;
+}
+
+.h-inherit {
+    height: inherit;
+}
+
+.img-text:hover img {
+    display: block;
+}
